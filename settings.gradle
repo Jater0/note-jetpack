@@ -1,0 +1,2 @@
+include ':hilt_01_basic'
+rootProject.name = "Jetpack_Hilt"
